@@ -25,10 +25,10 @@ This project is a **Language Translation Tool** developed as part of the Artific
 
 ## How to Use
 1. Clone the repository  
-git clone https://github.com/Gauravg2630/CodeAlpha_LanguageTranslationTool.git
+git clone https://github.com/Gauravg2630/CodeAlpha_Projects/tree/main/CodeAlpha_LanguageTranslationTool.git
 
 2. Navigate to the project directory  
-cd CodeAlpha_LanguageTranslationTool
+cd CodeAlpha_Projects/tree/main/CodeAlpha_LanguageTranslationTool
 
 3. Install dependencies (if applicable)  
 npm install
