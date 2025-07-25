@@ -35,6 +35,10 @@ frontend/
 ├── style.css             # Styles including dark/light theme
 └── script.js             # Frontend JS with API calls and theme toggle
 
+Screenshots :
+![Screenshot](S1.png)
+![Screenshot](S2.png)
+
 Setup & Usage:
 1. Clone the Repository
 git clone https://github.com/Gauravg2630/CodeAlpha_Projects.git
